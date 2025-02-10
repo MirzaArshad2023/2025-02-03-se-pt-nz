@@ -1,2 +1,1 @@
-# 2025-02-03-se-pt-nz
-All the source code and examples related to this cohort
+This repository has all the example codes and class exercises taught in this cohort.
